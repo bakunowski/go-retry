@@ -1,4 +1,4 @@
-# Retry
+# Retry once more
 
 [![GoDoc](https://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://pkg.go.dev/mod/github.com/sethvargo/go-retry)
 [![GitHub Actions](https://img.shields.io/github/workflow/status/sethvargo/go-retry/Test?style=flat-square)](https://github.com/sethvargo/go-retry/actions?query=workflow%3ATest)
